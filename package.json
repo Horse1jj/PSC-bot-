@@ -1,5 +1,5 @@
 {
-  "name": "match-making-bot",
+  "name": "PSC bot",
   "version": "0.0.1",
   "description": "discord bot for match making",
   "main": "index.js",
